@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Andrew T. Moffett, a software developer with a
 
 ## About Me
 
-I am a highly motivated and detail-oriented software developer looiking to build my experience. I have a strong foundation in Java, python, JS, MySQL, and react. Throughout my career, I have contributed to various projects, ranging from an inventory management system to a localized chat room.
+I am a highly motivated and detail-oriented software developer looiking to build my experience. I have a strong foundation in Java, Python, JS, MySQL, and React. Throughout my career, I have contributed to various projects, ranging from an inventory management system to a localized chat room.
 
 ## Skills
 
